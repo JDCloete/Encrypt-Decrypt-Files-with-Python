@@ -52,4 +52,7 @@ This project provides a GUI application for file encryption and decryption using
 ---
 
 ## Acknowledgments
-Special thanks to the developers and contributors of Python, Tkinter, and the `rsa` library for making this project possible.
+Special thanks to [@Schmidt1230](https://github.com/Schmidt1230) for contributing the most to the success of this project! 
+<img src="https://github.com/user-attachments/assets/7724cc14-2a6f-4650-b371-28f1c382e335" alt="image" width="75" style="margin-left: 25px;"/>
+
+
